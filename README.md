@@ -31,8 +31,9 @@ My goal is to become better at frontend development by building more projects, l
 If you are interested in my work or want to connect, feel free to contact me:
 
 ```txt
-Email: thakurmahindre@gmail.com
+  Email: thakurmahindre@gmail.com
 ```
 
+
 ✨ Thanks for Visiting
-Thanks for checking out my GitHub profile. Have a great day! 🙂
+Thanks for checking out my GitHub profile. Have a great day! 🙂  
