@@ -35,4 +35,5 @@ If you are interested in my work or want to connect, feel free to contact me:
 ```
 
 ✨ Thanks for Visiting
+
 Thanks for checking out my GitHub profile. Have a great day! 🙂  
